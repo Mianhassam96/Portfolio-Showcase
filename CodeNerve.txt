@@ -1,0 +1,20 @@
+<span id="a">MultiMian</span>:<span id="b">~</span><span id="c">$</span> cd MultiMian/<!-- Custom Terminal Style -->About_Us
+<span id="a">MultiMian</span>:<span id="b">~</span><span id="c">$</span> cat <!-- MultiMian About Section -->about_me.txt<br/><br/>
+My favorite code quote: "<span id="k">Learn, Code, Share.</span>". <!-- Inspired by the Community -->
+
+Hey there! Welcome to my portfolio website, designed with a terminal-style theme.<!-- Sleek and Stylish -->
+<p>I'm Mian Hassam, a passionate programmer, web developer, and tech enthusiast.</p>
+<p>With a strong foundation in full-stack development, I specialize in JavaScript and enjoy working with Flutter, Dart, Firebase, and MySQL to build dynamic applications. Currently, I'm focusing on creating tools and projects that enhance user experiences, like the MultiMian Image or Text to PDF Tool.</p>
+<p>My mission is to learn continuously, solve real-world problems with technology, and contribute to the programming community.</p>
+
+<p>Want to see my work? Check out my <a href="your-portfolio-link">portfolio</a>, or explore my projects on GitHub: <a href="https://github.com/Mianhassam96">Mianhassam96</a>.</p><!-- Explore My Innovations -->
+
+<p>Feel free to connect with me: <br> 
+<a href="your-facebook-link">Facebook</a> <br> 
+<a href="your-youtube-link">YouTube</a> <br> 
+<a href="your-linkedin-link">LinkedIn</a>.</p><!-- Let's Network -->
+
+<p>Need to get in touch? Send me an email at 
+<a href="mailto:mhassamkb@gmail.com">mhassamkb@gmail.com</a>.</p><!-- Always Happy to Connect -->
+
+<p>Cheers!</p>
